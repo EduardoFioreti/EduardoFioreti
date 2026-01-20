@@ -29,4 +29,5 @@ Projetos práticos usando MySQL e SQL para análise de dados.
 ## 📫 Contato
 
 - 📧 Email: eduardofioretidev@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/eduardo-fioreti](https://www.linkedin.com/in/eduardo-fioreti)
+- 📱 WhatsApp: +55 98 98706-7954  
+- 🔗 LinkedIn: [linkedin.com/in/eduardo-fioreti-4a8931371](https://www.linkedin.com/in/eduardo-fioreti-4a8931371)
