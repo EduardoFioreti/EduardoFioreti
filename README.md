@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Eduardo Fioreti 👋
 
-<!--
-**EduardoFioreti/EduardoFioreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia da Computação e gosto de programar e trabalhar com dados. Estou sempre praticando e criando projetos para aprender na prática.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades
+
+- **Linguagens:** Python, SQL  
+- **Banco de Dados:** MySQL  
+- **Ferramentas:** Git, GitHub, VS Code  
+- **Outros:** Análise de dados (praticando)
+
+---
+
+## 📂 Meus Projetos
+
+### [Foodtech](https://github.com/EduardoFioreti/Foodtech)
+Sistema simples para gerenciar pedidos e controlar estoque.
+
+### [Automação Suporte Técnico](https://github.com/EduardoFioreti/automacao-suporte-tecnico)
+Scripts em Python para automatizar tarefas do dia a dia.
+
+### [Análise de Dados SQL](https://github.com/EduardoFioreti/analise-dados-suporte-sql)
+Projetos práticos usando MySQL e SQL para análise de dados.
+
+---
+
+## 📫 Contato
+
+- 📧 Email: eduardofioretidev@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/eduardo-fioreti](https://www.linkedin.com/in/eduardo-fioreti)
