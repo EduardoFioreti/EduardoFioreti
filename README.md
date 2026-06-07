@@ -57,5 +57,5 @@ Previsão de conclusão: Dezembro/2026
 
 ## 📫 Contato
 
-LinkedIn: [linkedin.com/in/eduardo-fioreti-4a8931371](https://www.linkedin.com/in/eduardofioreti?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI59cTe2VRbuq3El32Ep88Q%3D%3D)
+LinkedIn: [linkedin.com/in/eduardofioreti](https://www.linkedin.com/in/eduardofioreti?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI59cTe2VRbuq3El32Ep88Q%3D%3D)
 Email: [eduardofioretidev@gmail.com](mailto:eduardofioretidev@gmail.com)
