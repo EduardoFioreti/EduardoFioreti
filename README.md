@@ -1,33 +1,29 @@
 # Olá, eu sou Eduardo Fioreti 👋
 
-Sou estudante de Engenharia da Computação e gosto de programar e trabalhar com dados. Estou sempre praticando e criando projetos para aprender na prática.
-
----
+Sou estudante de Engenharia da Computação e focado no desenvolvimento de soluções robustas com Python, automação de processos (RPA) e banco de dados. Estou sempre praticando e criando projetos focados em resolver problemas reais.
 
 ## 💻 Habilidades
 
-- **Linguagens:** Python, SQL  
-- **Banco de Dados:** MySQL  
-- **Ferramentas:** Git, GitHub, VS Code  
-- **Outros:** Análise de dados (praticando)
+* **Linguagens:** Python (FastAPI, Flask), SQL
+* **Banco de Dados:** SQLite, MySQL (SQLAlchemy ORM)
+* **Automação & Dados:** Selenium WebDriver, Pandas
+* **Ferramentas:** Git, GitHub, VS Code
 
----
+## 📂 Meus Projetos Principais
 
-## 📂 Meus Projetos
+### 🧪 [Lab Estoque](https://github.com/EduardoFioreti/lab_estoque)
+Sistema web full-stack para gestão de estoque e automação de alertas de validade e consumo para laboratórios. Desenvolvido com **FastAPI, SQLite e Jinja2**.
 
-### [Foodtech](https://github.com/EduardoFioreti/Foodtech)
-Sistema simples para gerenciar pedidos e controlar estoque.
+### 🤖 [Inventory Automation (RPA)](https://github.com/EduardoFioreti/inventory-automation)
+Plataforma de inventário integrada a um robô de automação que realiza preenchimento em massa de dados via CSV. Desenvolvido com **Flask, Selenium e Pandas**.
 
-### [Automação Suporte Técnico](https://github.com/EduardoFioreti/automacao-suporte-tecnico)
-Scripts em Python para automatizar tarefas do dia a dia.
+### 🚀 [TaskFlow Pro](https://github.com/EduardoFioreti/TaskFlow-pro-Agenda-inteligente)
+Aplicação de gerenciamento inteligente de tarefas com rotas dinâmicas (CRUD) e filtros avançados no servidor. Desenvolvido com **Flask e SQLAlchemy**.
 
-### [Análise de Dados SQL](https://github.com/EduardoFioreti/analise-dados-suporte-sql)
-Projetos práticos usando MySQL e SQL para análise de dados.
-
----
+### 📊 [Análise de Dados — Suporte Técnico](https://github.com/EduardoFioreti/analise-dados-suporte-sql)
+Modelagem de banco de dados relacional e consultas SQL analíticas complexas simulando um sistema de gestão de manutenção. Desenvolvido com **MySQL**.
 
 ## 📫 Contato
 
-- 📧 Email: eduardofioretidev@gmail.com  
-- 📱 WhatsApp: +55 98 98706-7954  
-- 🔗 LinkedIn: [linkedin.com/in/eduardo-fioreti-4a8931371](https://www.linkedin.com/in/eduardo-fioreti-4a8931371)
+* 🔗 **LinkedIn:** [linkedin.com/in/eduardo-fioreti-4a8931371](https://www.linkedin.com/in/eduardo-fioreti-4a8931371)
+* 📧 **Email:** eduardofioretidev@gmail.com
