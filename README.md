@@ -1,26 +1,61 @@
 # Olá, eu sou Eduardo Fioreti 👋
 
-Sou estudante de Engenharia da Computação e focado no desenvolvimento de soluções robustas com Python, automação de processos (RPA) e banco de dados. Estou sempre praticando e criando projetos focados em resolver problemas reais.
+Estudante de Engenharia da Computação (7º período) com experiência em suporte ERP, análise de dados, automação de processos e desenvolvimento back-end com Python.
 
-## 💻 Habilidades
+Atualmente desenvolvo aplicações web, automações RPA e projetos focados em produtividade, gestão de dados e resolução de problemas reais.
 
-* **Linguagens:** Python (FastAPI, Flask), SQL
-* **Banco de Dados:** SQLite, MySQL (SQLAlchemy ORM)
-* **Automação & Dados:** Selenium WebDriver, Pandas
-* **Ferramentas:** Git, GitHub, VS Code
+## 🚀 Tecnologias
 
-## 📂 Meus Projetos Principais
+### Back-end
 
-### 🧪 [Lab Estoque](https://github.com/EduardoFioreti/lab_estoque)
-Sistema web full-stack para gestão de estoque e automação de alertas de validade e consumo para laboratórios. Desenvolvido com **FastAPI, SQLite e Jinja2**.
+* Python
+* FastAPI
+* Flask
+* Django
+* Django REST Framework
 
-### 🤖 [Inventory Automation (RPA)](https://github.com/EduardoFioreti/inventory-automation)
-Plataforma de inventário integrada a um robô de automação que realiza preenchimento em massa de dados via CSV. Desenvolvido com **Flask, Selenium e Pandas**.
+### Banco de Dados
 
-### 🚀 [TaskFlow Pro](https://github.com/EduardoFioreti/TaskFlow-pro-Agenda-inteligente)
-Aplicação de gerenciamento inteligente de tarefas com rotas dinâmicas (CRUD) e filtros avançados no servidor. Desenvolvido com **Flask e SQLAlchemy**.
+* MySQL
+* SQLite
+* SQLAlchemy
+* Django ORM
+
+### Dados & Automação
+
+* Pandas
+* NumPy
+* Selenium
+* Tableau
+* Power BI
+
+### Ferramentas
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+
+## 📌 Projetos em Destaque
+
+### 📅 TaskFlow Pro
+
+Sistema de gerenciamento inteligente de tarefas com CRUD completo, filtros avançados e persistência de dados utilizando Flask e SQLAlchemy.
+
+### 🧪 Lab Estoque
+
+Sistema web para gestão de estoque laboratorial com monitoramento de validade, consumo e automação de processos.
+
+### 🤖 Inventory Automation
+
+Plataforma integrada a RPA para cadastro e atualização em massa de produtos via CSV utilizando Flask, Selenium e Pandas.
+
+## 🎓 Formação
+
+Engenharia da Computação — UniCEUMA
+Previsão de conclusão: Dezembro/2026
 
 ## 📫 Contato
 
-* 🔗 **LinkedIn:** [linkedin.com/in/eduardo-fioreti-4a8931371](https://www.linkedin.com/in/eduardo-fioreti-4a8931371)
-* 📧 **Email:** eduardofioretidev@gmail.com
+LinkedIn: linkedin.com/in/eduardo-fioreti-4a8931371
+Email: [eduardofioretidev@gmail.com](mailto:eduardofioretidev@gmail.com)
