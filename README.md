@@ -20,9 +20,6 @@ Plataforma de inventário integrada a um robô de automação que realiza preenc
 ### 🚀 [TaskFlow Pro](https://github.com/EduardoFioreti/TaskFlow-pro-Agenda-inteligente)
 Aplicação de gerenciamento inteligente de tarefas com rotas dinâmicas (CRUD) e filtros avançados no servidor. Desenvolvido com **Flask e SQLAlchemy**.
 
-### 📊 [Análise de Dados — Suporte Técnico](https://github.com/EduardoFioreti/analise-dados-suporte-sql)
-Modelagem de banco de dados relacional e consultas SQL analíticas complexas simulando um sistema de gestão de manutenção. Desenvolvido com **MySQL**.
-
 ## 📫 Contato
 
 * 🔗 **LinkedIn:** [linkedin.com/in/eduardo-fioreti-4a8931371](https://www.linkedin.com/in/eduardo-fioreti-4a8931371)
