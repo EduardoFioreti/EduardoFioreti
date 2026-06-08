@@ -1,61 +1,81 @@
 # Olá, eu sou Eduardo Fioreti 👋
 
-Estudante de Engenharia da Computação (7º período) com experiência em suporte ERP, análise de dados, automação de processos e desenvolvimento back-end com Python.
+Desenvolvedor Back-end em formação (Engenharia da Computação — 7º período), com foco em desenvolvimento web, automação de processos e sistemas de gestão.
 
-Atualmente desenvolvo aplicações web, automações RPA e projetos focados em produtividade, gestão de dados e resolução de problemas reais.
+Atuo com Python no desenvolvimento de aplicações completas (Full Stack leve), criando soluções como sistemas de tarefas, controle de estoque e automações RPA aplicadas a problemas reais.
 
-## 🚀 Tecnologias
+## 💡 Foco atual
 
-### Back-end
+- Desenvolvimento de aplicações web com Flask e FastAPI  
+- Criação de sistemas de gestão (tarefas, estoque, dados)  
+- Automação de processos com Python e Selenium  
+- Modelagem e manipulação de dados com SQL e Pandas  
+- Construção de projetos voltados para produtividade e eficiência  
 
-* Python
-* FastAPI
-* Flask
-* Django
-* Django REST Framework
+---
 
-### Banco de Dados
-
-* MySQL
-* SQLite
-* SQLAlchemy
-* Django ORM
-
-### Dados & Automação
-
-* Pandas
-* NumPy
-* Selenium
-* Tableau
-* Power BI
-
-### Ferramentas
-
-* Git
-* GitHub
-* VS Code
-* Vercel
-
-## 📌 Projetos em Destaque
+## 🚀 Projeto principal
 
 ### 📅 TaskFlow Pro
+Sistema completo de gerenciamento de tarefas com autenticação, categorias, filtros inteligentes, alertas de prazo e dashboard analítico.
 
-Sistema de gerenciamento inteligente de tarefas com CRUD completo, filtros avançados e persistência de dados utilizando Flask e SQLAlchemy.
+🔹 Stack: Flask, SQLAlchemy, Bootstrap, PostgreSQL  
+🔹 Foco: produtividade, UX simples e controle de tarefas por usuário  
+🔹 Destaques: autenticação segura, filtros combinados, alertas inteligentes e dashboard com progresso
+
+---
+
+## 🧠 Outros projetos
 
 ### 🧪 Lab Estoque
-
-Sistema web para gestão de estoque laboratorial com monitoramento de validade, consumo e automação de processos.
+Sistema de controle de estoque com foco em validade, consumo e organização de materiais.
 
 ### 🤖 Inventory Automation
+Automação de cadastro em massa de produtos via CSV usando Python, Pandas e Selenium.
 
-Plataforma integrada a RPA para cadastro e atualização em massa de produtos via CSV utilizando Flask, Selenium e Pandas.
+---
+
+## 🛠️ Tecnologias
+
+**Back-end**
+- Python
+- Flask
+- FastAPI
+- Django
+
+**Banco de Dados**
+- PostgreSQL
+- MySQL
+- SQLite
+- SQLAlchemy
+
+**Dados & Automação**
+- Pandas
+- NumPy
+- Selenium
+
+**Frontend**
+- HTML
+- Bootstrap
+- Jinja2
+
+**Ferramentas**
+- Git & GitHub
+- VS Code
+- Render
+- Vercel
+
+---
 
 ## 🎓 Formação
 
-Engenharia da Computação — UniCEUMA
+Engenharia da Computação — UniCEUMA  
 Previsão de conclusão: Dezembro/2026
+
+---
 
 ## 📫 Contato
 
-LinkedIn: [linkedin.com/in/eduardofioreti](https://www.linkedin.com/in/eduardofioreti?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI59cTe2VRbuq3El32Ep88Q%3D%3D)
-Email: [eduardofioretidev@gmail.com](mailto:eduardofioretidev@gmail.com)
+- LinkedIn: linkedin.com/in/eduardofioreti  
+- Email: eduardofioretidev@gmail.com  
+- GitHub: github.com/EduardoFioreti
