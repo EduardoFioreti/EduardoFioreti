@@ -1,37 +1,47 @@
 # Olá, eu sou Eduardo Fioreti 👋
 
-Desenvolvedor Back-end em formação (Engenharia da Computação — 7º período), com foco em desenvolvimento web, automação de processos e sistemas de gestão.
+Desenvolvedor Back-end em formação (Engenharia da Computação — 7º período), focado em desenvolvimento web, automação de processos e construção de sistemas de gestão.
 
-Atuo com Python no desenvolvimento de aplicações completas (Full Stack leve), criando soluções como sistemas de tarefas, controle de estoque e automações RPA aplicadas a problemas reais.
-
-## 💡 Foco atual
-
-- Desenvolvimento de aplicações web com Flask e FastAPI  
-- Criação de sistemas de gestão (tarefas, estoque, dados)  
-- Automação de processos com Python e Selenium  
-- Modelagem e manipulação de dados com SQL e Pandas  
-- Construção de projetos voltados para produtividade e eficiência  
+Atuo com Python no desenvolvimento de aplicações reais, criando sistemas completos voltados para produtividade, controle de dados e automação de tarefas operacionais.
 
 ---
 
-## 🚀 Projeto principal
+## 💡 O que eu desenvolvo
+
+- Sistemas web completos com autenticação e regras de negócio
+- Plataformas de gestão (tarefas, estoque e inventário)
+- Automação de processos com Python e RPA (Selenium)
+- Manipulação e análise de dados com SQL e Pandas
+- Aplicações voltadas para eficiência operacional
+
+---
+
+## 🚀 Projetos em destaque
 
 ### 📅 TaskFlow Pro
-Sistema completo de gerenciamento de tarefas com autenticação, categorias, filtros inteligentes, alertas de prazo e dashboard analítico.
+Sistema de gerenciamento de tarefas com autenticação, categorias, filtros inteligentes e dashboard de produtividade.
 
-🔹 Stack: Flask, SQLAlchemy, Bootstrap, PostgreSQL  
-🔹 Foco: produtividade, UX simples e controle de tarefas por usuário  
-🔹 Destaques: autenticação segura, filtros combinados, alertas inteligentes e dashboard com progresso
+🔹 Stack: Flask, SQLAlchemy, PostgreSQL, Bootstrap  
+🔹 Foco: produtividade e organização de tarefas por usuário  
+🔹 Destaques: filtros avançados, alertas de prazo e dashboard analítico  
 
 ---
 
-## 🧠 Outros projetos
-
 ### 🧪 Lab Estoque
-Sistema de controle de estoque com foco em validade, consumo e organização de materiais.
+Sistema inteligente de gestão de estoque laboratorial com controle de validade, lotes e alertas automáticos.
+
+🔹 Stack: FastAPI, SQLAlchemy, SQLite, Jinja2  
+🔹 Foco: controle de insumos e automação de estoque  
+🔹 Destaques: alertas de vencimento e lista automática de compras  
+
+---
 
 ### 🤖 Inventory Automation
-Automação de cadastro em massa de produtos via CSV usando Python, Pandas e Selenium.
+Sistema de inventário com automação RPA para cadastro em massa de produtos via CSV.
+
+🔹 Stack: Flask, Selenium, Pandas, Bootstrap  
+🔹 Foco: automação de processos empresariais  
+🔹 Destaques: robô de cadastro automático e integração com dados CSV  
 
 ---
 
@@ -56,6 +66,7 @@ Automação de cadastro em massa de produtos via CSV usando Python, Pandas e Sel
 
 **Frontend**
 - HTML
+- CSS
 - Bootstrap
 - Jinja2
 
@@ -70,7 +81,7 @@ Automação de cadastro em massa de produtos via CSV usando Python, Pandas e Sel
 ## 🎓 Formação
 
 Engenharia da Computação — UniCEUMA  
-Previsão de conclusão: Dezembro/2026
+Previsão de conclusão: Dezembro/2026  
 
 ---
 
