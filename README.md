@@ -1,92 +1,37 @@
-# Olá, eu sou Eduardo Fioreti 👋
+# Olá! Eu sou Eduardo Fioreti 👋
 
-Desenvolvedor Back-end em formação (Engenharia da Computação — 7º período), focado em desenvolvimento web, automação de processos e construção de sistemas de gestão.
+🎓 Estudante de Engenharia da Computação  
+💻 Profissional de TI em transição para o desenvolvimento Back-end  
+🐍 Focado em Python, APIs e desenvolvimento de software.
 
-Atuo com Python no desenvolvimento de aplicações reais, criando sistemas completos voltados para produtividade, controle de dados e automação de tarefas operacionais.
+## Sobre mim
 
----
+Tenho experiência prática em TI, atuando com suporte técnico N1/N2, sustentação de sistemas ERP, consultas SQL e automação de rotinas.
 
-## 💡 O que eu desenvolvo
+Atualmente, estou aprofundando meus conhecimentos em Python e desenvolvimento Back-end, criando projetos para aplicar na prática os conceitos que estudo.
 
-- Sistemas web completos com autenticação e regras de negócio
-- Plataformas de gestão (tarefas, estoque e inventário)
-- Automação de processos com Python e RPA (Selenium)
-- Manipulação e análise de dados com SQL e Pandas
-- Aplicações voltadas para eficiência operacional
+## 🛠️ Tecnologias e ferramentas
 
----
+- **Linguagens:** Python
+- **Banco de dados:** SQL, MySQL, SQL Server e PostgreSQL
+- **Versionamento:** Git e GitHub
+- **Em aprendizado:** FastAPI, Django e APIs REST
 
 ## 🚀 Projetos em destaque
 
-### 📅 TaskFlow Pro
-Sistema de gerenciamento de tarefas com autenticação, categorias, filtros inteligentes e dashboard de produtividade.
+### 1. Lab Estoque
+Projeto voltado ao gerenciamento de estoque, com foco em organização e operações de controle.
 
-🔹 Stack: Flask, SQLAlchemy, PostgreSQL, Bootstrap  
-🔹 Foco: produtividade e organização de tarefas por usuário  
-🔹 Destaques: filtros avançados, alertas de prazo e dashboard analítico  
+### 2. Inventory Automation
+Automação de processos relacionados ao controle e gerenciamento de inventário.
 
----
+### 3. TaskFlow Pro
+Projeto voltado à organização e gerenciamento de tarefas.
 
-### 🧪 Lab Estoque
-Sistema inteligente de gestão de estoque laboratorial com controle de validade, lotes e alertas automáticos.
+## 🎯 Objetivos
 
-🔹 Stack: FastAPI, SQLAlchemy, SQLite, Jinja2  
-🔹 Foco: controle de insumos e automação de estoque  
-🔹 Destaques: alertas de vencimento e lista automática de compras  
+- Desenvolver aplicações Back-end com Python.
+- Criar e integrar APIs REST.
+- Aprofundar conhecimentos em bancos de dados.
+- Evoluir na construção de sistemas reais e escaláveis.
 
----
-
-### 🤖 Inventory Automation
-Sistema de inventário com automação RPA para cadastro em massa de produtos via CSV.
-
-🔹 Stack: Flask, Selenium, Pandas, Bootstrap  
-🔹 Foco: automação de processos empresariais  
-🔹 Destaques: robô de cadastro automático e integração com dados CSV  
-
----
-
-## 🛠️ Tecnologias
-
-**Back-end**
-- Python
-- Flask
-- FastAPI
-- Django
-
-**Banco de Dados**
-- PostgreSQL
-- MySQL
-- SQLite
-- SQLAlchemy
-
-**Dados & Automação**
-- Pandas
-- NumPy
-- Selenium
-
-**Frontend**
-- HTML
-- CSS
-- Bootstrap
-- Jinja2
-
-**Ferramentas**
-- Git & GitHub
-- VS Code
-- Render
-- Vercel
-
----
-
-## 🎓 Formação
-
-Engenharia da Computação — UniCEUMA  
-Previsão de conclusão: Dezembro/2026  
-
----
-
-## 📫 Contato
-
-- LinkedIn: linkedin.com/in/eduardofioreti  
-- Email: eduardofioretidev@gmail.com  
-- GitHub: github.com/EduardoFioreti
